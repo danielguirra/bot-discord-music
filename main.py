@@ -33,4 +33,4 @@ for filename in os.listdir('./cogs'):
 
 
 
-bot.run('ODgwMTAyNTU1MTk4MzAwMzAw.YSZZYA.RiAsN3vXrOcIRoSA8LeUmjdYa38')
+bot.run('YOUR TOKEN HERE')
